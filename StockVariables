@@ -7,9 +7,9 @@
     <script>
     let Apple = 147.14
     let Hollister = 0.19
-    let Adidas = 167.22 
+    let Target = 243.37
     let Netflix = 585.68
-    let Tesla = 758.85 
+    let Walmart = 144.34
      </script>
 
 </head>
@@ -21,9 +21,9 @@
   <script>
 document.write("Apple: " + Apple + "<br>");
 document.write("Hollister: " + Hollister + "<br>");
-document.write("Adidas: " + Adidas + "<br>");
+document.write("Target: " + Target + "<br>");
 document.write("Netflix: " + Netflix + "<br>");
-document.write("Tesla: " + Tesla + "<br>");
+document.write("Walmart: " + Walmart + "<br>");
   </script>
   </body>
 </html>
