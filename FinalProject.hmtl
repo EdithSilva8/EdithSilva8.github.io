@@ -54,15 +54,15 @@ h1, h2, h3, h4, h5, h6 {
   <!-- Menu Section -->
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
-      <h1 class="w3-center">Our Menu</h1><br>
-      <h4>Bread Basket</h4>
-      <p class="w3-text-grey">Assortment of fresh baked fruit breads and muffins 5.50</p><br>
+      <h1 class="w3-center">My Story</h1><br>
+      <h4>What inspired me?</h4>
+      <p class="w3-text-grey">Knowing that many times there are language barriers that can be hard to cross.</p><br>
     
-      <h4>Honey Almond Granola with Fruits</h4>
-      <p class="w3-text-grey">Natural cereal of honey toasted oats, raisins, almonds and dates 7.00</p><br>
+      <h4>Why?</h4>
+      <p class="w3-text-grey">I want to persue this career in nursing becuase I really want to help people have a safe and calmed expereince and support them with everythingh I can do.</p><br>
     
-      <h4>Belgian Waffle</h4>
-      <p class="w3-text-grey">Vanilla flavored batter with malted flour 7.50</p><br>
+      <h4>How?</h4>
+      <p class="w3-text-grey">I will accomplish this goal of mine by going to TWU, and prepare myself to be a good nurse.</p><br>
     
       <h4>Scrambled eggs</h4>
       <p class="w3-text-grey">Scrambled eggs, roasted red pepper and garlic, with green onions 7.50</p><br>
@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
     </div>
     
     <div class="w3-col l6 w3-padding-large">
-      <img src="/w3images/tablesetting.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEM3LVffBecD_XZWpxk6t6DBpTokgLrLoaPQ&usqp=CAU" alt="Menu" style="width:100%">
     </div>
   </div>
 
